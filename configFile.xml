@@ -1,0 +1,10 @@
+<xml>
+	<config>
+		<log4j>DEBUG</log4j>
+		<serverip>127.0.0.1</serverip>
+		<serverport>8091</serverport>
+		<databasefilepath>./Supervision CNAF PROD_MegaCluster.cmdb,./Equipements-sites.csv</databasefilepath><!--One or more separated by a ,-->
+		<servicename>TeamViewer</servicename>
+		<charset>Cp1252</charset>
+	</config>
+</xml>
